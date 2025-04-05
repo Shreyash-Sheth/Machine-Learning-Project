@@ -30,8 +30,8 @@ Exploring the data through various functions available within the â€˜Tidyverseâ€
 
        # viewing the number of missing values in the column
        view(d[is.na(Age), ])
-       
-       boxplot(Age)
+
+  Screenshot of the R-Studio console:
   ![image](https://github.com/user-attachments/assets/3f778411-e809-41df-86bd-0efabccbd26b)
 
 The dataset has 891 rows (observations) and 5 columns (variables). Columns available are Survived (Integer), Cabin Class (Integer), Gender (Character), Age (Numerical) and Fare (Numerical).
