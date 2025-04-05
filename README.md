@@ -9,7 +9,7 @@ Exploring the data through various functions available within the â€˜Tidyverseâ€
        install.packages("tidyverse")
        library(tidyverse)
        
-       d <- read.csv("C:\\Users\\yashs\\Desktop\\BA\\IS 6052 Predictive Analytics\\Assignment\\Titanic.csv")
+       d <- read.csv("C:\\Users\\shreyash\\Desktop\\Titanic.csv")
 
        # exploring dimensions of the dataset
        dim(d)
